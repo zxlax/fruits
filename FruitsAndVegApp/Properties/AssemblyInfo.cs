@@ -7,7 +7,6 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyTitle("FruitsAndVegApp")]
 [assembly: AssemblyDescription("Description")]
-[assembly: AssemblyAuthors("Enguerran Boissier")]
 [assembly: AssemblyConfiguration("configuration")]
 [assembly: AssemblyCompany("Company")]
 [assembly: AssemblyProduct("FruitsAndVegApp")]
