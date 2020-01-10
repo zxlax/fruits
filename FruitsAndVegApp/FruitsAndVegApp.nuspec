@@ -17,5 +17,9 @@
   </metadata>
   <files>
     <file src="bin\" target="bin" />
+    <file src="Content\" target="Content" />
+    <file src="Images\" target="Images" />
+    <file src="Scripts\" target="Scripts" />
+    <file src="Default.aspx" target="" />
   </files>
 </package>
