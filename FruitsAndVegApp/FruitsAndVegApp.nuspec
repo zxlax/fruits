@@ -21,5 +21,9 @@
     <file src="Images\" target="Images" />
     <file src="Scripts\" target="Scripts" />
     <file src="Default.aspx" target="" />
+    <file src="Global.asax" target="" />
+    <file src="packages.config" target="" />
+    <file src="Site.Master" target="" />
+    <file src="Web.config" target="" />
   </files>
 </package>
